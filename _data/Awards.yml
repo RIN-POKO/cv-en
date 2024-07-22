@@ -1,0 +1,13 @@
+subject: Awards
+listing-order: 6
+icon: "/assets/img/trophy.svg"
+contents:
+  - title: Scholarship offered by the TOYOTA Scholarship Foundation
+    description: Scholarships are provided to students who have excellent academic performance and character, and who have a strong desire to study and research.
+    date: Jul. 2021
+  - title: Junior-Meister Special Award
+    description: The award is given to students who have achieved national excellence in qualifications and other accomplishments while in high school.
+    date: Feb. 2018
+  - title: Central Council for the Promoting of Industrial Education Award
+    description: The award is given to the graduating senior of each technical high school who is the most outstanding in terms of both academic achievement and character.
+    date: Oct. 2018

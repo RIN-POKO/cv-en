@@ -1,0 +1,25 @@
+subject: Qualifications
+listing-order: 7
+icon: "/assets/img/qualification.svg"
+contents:
+  - title: Applied Information Technology Engineer
+    detail: IPA (Information-technology Promotion Agency), Japan
+    date: Apr. 2023
+  - title: Fundamental Information Technology Engineer
+    detail: IPA (Information-technology Promotion Agency), Japan
+    date: Apr. 2022
+  - title: Engineer-in-Training(Information Engineering)
+    detail: The Institution of Professional Engineers, Japan
+    date: Dec. 2020
+  - title: Deep Learning for GENERAL
+    detail: JDLA (Japan Deep Learning Association), Japan
+    date: Jul. 2020
+  - title: Hazardous Materials Engineer's License, Class B, Group 4
+    detail: Aichi, Japan
+    date: May. 2017
+  - title: Digital Communication Grade II Installation Technician
+    detail: Ministry of Internal Affairs and Communications, Japan
+    date: Jun. 2017
+  - title: 2nd class Qualified Certified Electrician
+    detail: Aichi, Japan
+    date: Oct. 2016

@@ -1,0 +1,31 @@
+title: Rintaro OKUDERA
+profile_img: /assets/img/profile.jpg
+icon_img: /assets/img/icon.webp
+
+name: "Rintaro OKUDERA"
+job: "Master's Student"
+
+phone_number: 
+address: Nagoya, Japan
+email: rintaro.okudera+work@gmail.com
+linkedin_username: rintaro-okudera
+github_username: RIN-POKO
+instagram_username: rinchan_okudera
+twitter_username: rinchan_okudera
+facebook_username: 100043761548063
+youtube_username: 
+blog_url: https://note.com/pokopoko24
+
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
+baseurl:
+
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

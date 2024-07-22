@@ -1,0 +1,26 @@
+subject: Education
+listing-order: 1
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: Nagoya University, Master of Informatics (est.)
+    detail: Department of Computing and Software Systems, Graduate school of Informatics
+    description:
+      - Researching on UAVs
+      - Studying embedded systems
+    date: Apr. 2022 - Mar. 2025
+  - title: Toyota Technological Institute, Bachelor of Engineering
+    detail: Department of Advanced Science and Technology, Undergraduate School of Engineering
+    description:
+      - Researching on diodes using computer simulation
+      - Studied mechanical/electric/electronic/information/materials engineering
+      - Studied abroad at KDU University College, Malaysia (Aug. 2018)
+    date: Apr. 2018 - Mar. 2022
+  - title: Toyohashi Technical Highschool
+    detail: Department of electronics
+    description:
+      - Studied electronic technologies (soldering, circuit design, PLC)
+      - Acquired machining techniques (lathe, milling, welding)
+      - Developed an arm robot and was mainly in charge of control SW/HW
+      - Developed a 5-inchi gauge (Large Scale Model Train) and was mainly in charge of control SW/HW
+    grade: "**GPA**: `4.78/5`"
+    date: Apr. 2015 - Mar. 2018

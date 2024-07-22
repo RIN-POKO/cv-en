@@ -1,0 +1,48 @@
+subject: Experiences
+listing-order: 2
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: Nagoya University, Japan
+    status: part-time
+    role: Technical Assistant
+    description:
+      - Researching SoS (System of systems)
+      - Built robot simulation environment
+      - Evaluation of robotics developing methods using interactive AI
+    date: Nov. 2022 - OnGoing
+  - title: Yukai Engineering, Japan
+    status: part-time
+    role: Embedded Software Engineer
+    description:
+      - Developing "Kawaii" robots.
+    date: Apr. 2024 - OnGoing
+  - title: Sony Corporation, Japan
+    status: internship
+    role: Embedded Software Engineer
+    description:
+      - Developed an embedded software for camera
+    date: Aug. 2023 - Sep. 2023
+  - title: Toyota Motor Corporation, Japan
+    status: internship
+    role: UX Engineer
+    description:
+      - Developed an In-vehicle UX application using Flutter/Dart
+    date: Sep. 2022
+  - title: Renesas Electronics Corporation, Japan
+    status: internship
+    role: Application Engineer
+    description:
+      - Improved and evaluated EV motor control systems using MATLAB/Simulink
+    date: Sep. 2022
+  - title: Mitsubishi Electric Engineering Company Limited, Japan
+    status: internship
+    role: Embedded Software Engineer
+    description:
+      - Experienced a series of embedded software development processes for FA equipment embedded software for camera
+    date: Feb. 2020
+  - title: JTEKT CORPORATION, Japan
+    status: internship
+    role: Skilled Worker
+    description:
+      - Assembled and packed bearings
+    date: Feb. 2019 - Mar. 2019
